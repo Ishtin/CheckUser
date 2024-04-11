@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 created first file in branch b2
 editing it to check if it gets added in master branch when merged
+=======
+first file in branch b2 - this is actually second file 
+>>>>>>> b2
